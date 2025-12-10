@@ -23,13 +23,13 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" alt="Keras" />
 </p>
 
-### 💻 Development & Frameworks
+###  Development & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
-### 🔧 Other Tools & Languages
+###  Other Tools & Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
@@ -72,7 +72,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" />
 
-### 📈 Tech Stack Stats
+###  Tech Stack Stats
 
 ```text
 🔥 Most Used: Python, JavaScript
@@ -89,25 +89,25 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🕵️‍♂️ Fake Job Detection
+### 🕵 Fake Job Detection
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Silambarasan-K&repo=Fake-Job-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Silambarasan-K/Fake-Job-Detection)
 
-**🔹 ML-powered fraud detection**  
+** ML-powered fraud detection**  
 Identifies fake job postings using NLP and classification models.
 
 </td>
 <td width="50%">
 
-### ❤️ Heart Disease Prediction
+###  Heart Disease Prediction
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Silambarasan-K&repo=Heart-Disease-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Silambarasan-K/Heart-Disease-Prediction)
 
-**🔹 AI-driven medical prediction**  
+** AI-driven medical prediction**  
 Predicts heart disease risk using machine learning algorithms.
 
 </td>
@@ -115,21 +115,17 @@ Predicts heart disease risk using machine learning algorithms.
 <tr>
 <td width="50%">
 
-### 🌍 District Visiting Web App
+###  District Visiting Web App
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Silambarasan-K&repo=District-Visiting-Web-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Silambarasan-K/District-Visiting-Web-App)
 
-**🔹 Smart travel assistant**  
+** Smart travel assistant**  
 Helps users explore districts with details, routes, and attractions.
 
 </td>
 <td width="50%">
 
-### 🔗 More Projects
-
-Explore additional work:
-- 🤖 Machine Learning Models  
-- 🌐 Full-Stack Web Apps  
-- 📱 Android & UI Projects  
+###  More Projects
+  
 
 [![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Silambarasan-K?tab=repositories)
 
@@ -140,7 +136,7 @@ Explore additional work:
 ---
 
 
-## 🏆 Coding Platforms & Statistics
+##  Coding Platforms & Statistics
 
 <div align="center">
 
@@ -148,7 +144,7 @@ Explore additional work:
 <tr>
 <td width="50%" valign="top">
 
-### 💻 LeetCode Profile
+###  LeetCode Profile
 
 <a href="https://leetcode.com/u/Silambarasan_K/">
   <img src="https://leetcard.jacoblin.cool/Silambarasan_K?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
@@ -161,7 +157,7 @@ Explore additional work:
 </td>
 <td width="50%" valign="top">
 
-### 🍳 CodeChef Profile
+###  CodeChef Profile
 
 <table align="center">
   <tr>
@@ -186,7 +182,7 @@ Explore additional work:
   </tr>
 </table>
 
-### 🎯 Codolio
+###  Codolio
 
 <a href="https://demo.codolio.com/profile/Silambarasan" target="_blank">
   <img src="https://img.shields.io/badge/Codolio-Active%20Profile-8B5CF6?style=for-the-badge" alt="Codolio" />
@@ -207,7 +203,7 @@ Explore additional work:
 ---
 
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -246,7 +242,7 @@ Explore additional work:
 ---
 
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
@@ -258,7 +254,7 @@ Explore additional work:
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
