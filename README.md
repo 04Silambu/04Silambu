@@ -252,35 +252,39 @@ Explore additional work:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/04Silambu/04Silambu/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/04Silambu/04Silambu/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/04Silambu/04Silambu/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/04Silambu/04Silambu/output/github-snake.svg" />
   </picture>
 </div>
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YUVANRAJ-K-S">
+<a href="https://www.linkedin.com/in/silambarasan-k-00a2662a6/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:kit27.am63@gmail.com">
+
+<a href="mailto:kit27.am52@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://codolio.com/profile/Yuvan">
+
+<a href="https://demo.codolio.com/profile/Silambarasan">
   <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Codolio" />
 </a>
 
 <br/><br/>
 
-### ✨ "Learning today, building tomorrow."
+
+
+### ✨ "Transforming ideas into reality, one commit at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
-**⭐ If you find my work interesting, feel free to star my repositories!**
+**⭐ Support my work by starring the repositories you find useful!**
 
-*Made with ❤️ by [Yuvanraj K S](https://github.com/Yuvanraj-K-S)*
+*Made with ❤️ by [Silambarasan K](https://github.com/04Silambu)*
 
 </div>
+
