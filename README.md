@@ -95,7 +95,7 @@
 <tr>
 <td width="50%">
 
-### 🕵 Fake Job Detection
+###  Fake Job Detection
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Silambarasan-K&repo=Fake-Job-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Silambarasan-K/Fake-Job-Detection)
 
 ** ML-powered fraud detection**  
