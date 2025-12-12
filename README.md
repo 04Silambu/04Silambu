@@ -153,7 +153,7 @@ Helps users explore districts with details, routes, and attractions.
 
 ###  Codolio
 
-<a href="https://demo.codolio.com/profile/Silambarasan" target="_blank">
+<a href="https://demo.codolio.com/profile/silambarasan_K" target="_blank">
   <img src="https://img.shields.io/badge/Codolio-Active%20Profile-8B5CF6?style=for-the-badge" alt="Codolio" />
 </a>
 
