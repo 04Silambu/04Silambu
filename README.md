@@ -23,9 +23,9 @@
 
 ---
 
-## 💼 Technical Arsenal
+##  Technical Arsenal
 
-### 🧠 AI/ML & Data Science
+###  AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -34,7 +34,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -243,13 +243,13 @@ Helps users explore districts with details, routes, and attractions.
 
 
 
-### ✨ "Transforming ideas into reality, one commit at a time."
+###  "Transforming ideas into reality, one commit at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
-**⭐ Support my work by starring the repositories you find useful!**
+** Support my work by starring the repositories you find useful!**
 
-*Made with ❤️ by [Silambarasan K](https://github.com/04Silambu)*
+*Made with  by [Silambarasan K](https://github.com/04Silambu)*
 
 </div>
 
