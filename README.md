@@ -194,7 +194,7 @@ Helps users explore districts with details, routes, and attractions.
 <!-- Language | Commit | Productive Hours -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=04Silambu&theme=solarized" width="31%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=04Silambu&theme=solarized" width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=04Silambu&theme=solarized" width="31%" title="🦉 Productive Hours" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=04Silambu&theme=solarized" width="31%" title=" Productive Hours" />
 
 <br/><br/>
 
